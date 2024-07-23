@@ -9,3 +9,5 @@ scipy==1.13.0
 seaborn==0.13.2
 st_gsheets_connection==0.0.4
 streamlit==1.30.0
+google-cloud-aiplatform #this is required
+google-cloud-logging  #this is required
